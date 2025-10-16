@@ -8,10 +8,10 @@
   <img src="./docs/heropfp.png" alt="producer’s almanac" width="120">
 </p>
 
-# producer’s almanac — decisions you can reuse
+# producer’s almanac
 
 ## what this is
-reusable decision logs (adrs), retros, and templates. short, clear, linkable.
+reusable decision logs (adrs), retros, and templates. clear and futureproofed.
 
 ## why it matters
 - captures trade-offs so you don’t re-debate
